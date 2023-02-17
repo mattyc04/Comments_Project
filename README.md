@@ -2,5 +2,5 @@ This project allows teachers to easily generate student comments to save them to
 
 Developed by M.Chan
 
-I eat coffee grounds 
+I eat coffee grounds --
 Shawn
