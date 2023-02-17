@@ -1,0 +1,11 @@
+Student Last Name,Student First Name,Class,Midterm Score,Final Exam Score,Trending Up?,Student Attributes,Homework Completion Grade,Presentation Topic,Presentation Comments,Presentation Grade,Final Percentage Grade,Final Letter Grade,Absences,Pass/Fail,Q1,Q2,Q3
+Smith,James,AP Calculus BC,62,88,Yes,hard working,86,fibonaci sequence,boring,67,78.7,C,5,PASS,1,1,1
+Johnson,Rob,AP Calculus BC,61,99,Yes,slacker,65,integration,interesting,85,75.0,C,4,PASS,3,2,2
+Williams,John,AP Calculus BC,70,88,Yes,interesting,65,limits,in-depth,58,74.3,C,0,PASS,2,1,1
+Brown,Mike,AP Calculus BC,66,85,Yes,a joy,80,derivatives,exceptional,65,77.0,C,3,PASS,4,4,2
+Jones,David,AP Calculus BC,69,100,Yes,a genius,92,computational physics,bland,67,87.0,B,3,PASS,4,4,2
+Garcia,Mary,AP Calculus BC,58,89,Yes,collaborative,81,harmonic series,lacking,56,76.0,C,6,FAIL,2,3,4
+Miller ,Pat,AP Calculus BC,60,85,Yes,insightful,87,integers,inspiring,68,77.3,C,3,PASS,3,4,4
+Davis,Linda,AP Calculus BC,77,96,Yes,racist,93,washer method,motivating,89,88.7,B,6,FAIL,2,1,1
+Lopez,Jessica,AP Calculus BC,50,88,Yes,boring,76,continuity,awful,66,71.3,C,5,PASS,3,3,3
+Gonzalez,Elizabeth,AP Calculus BC,59,86,Yes,kind,85,chain rule,horrendous,93,76.7,C,5,PASS,2,1,4
